@@ -1,0 +1,16 @@
+p {
+    color: royalblue; 
+}
+
+.kolor1 {
+    background-color: #910a0a;
+}
+.kolor2 {
+    background-color: #47ca68;
+}
+.kolor3 {
+    background-color: #2392db75;
+}
+h1+h3 {
+    color: rgb(153, 14, 14);
+}
